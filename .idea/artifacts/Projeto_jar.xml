@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="Projeto:jar">
     <output-path>$PROJECT_DIR$/out/</output-path>
     <root id="archive" name="Projeto.jar">
-      <element id="module-output" name="Projeto" />
+      <element id="module-output" name="FileDataExchanger" />
     </root>
   </artifact>
 </component>
